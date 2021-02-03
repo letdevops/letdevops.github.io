@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+15:59:19	69/69	---MCZ	200	added ('OK')	text/plain	date:Thu,%2013%20Feb%202020%2013:59:17%20GMT	https://trade.ItPost.com/robots.txt		(from )
+15:59:20	41172/41172	---MCZ	200	added ('OK')	text/html	date:Thu,%2013%20Feb%202020%2013:59:19%20GMT	https://trade.ItPost.com/privacy-policy/	D:/projects/tggg3/web/index.html	(from )

@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.ItPost.com	TRUE	/	FALSE	1999999999	__cfduid	d8946a6a008317a8af932b38203f438401581602357
+trade.ItPost.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+

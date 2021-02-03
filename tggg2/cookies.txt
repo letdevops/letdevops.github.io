@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.collective2.com	TRUE	/	FALSE	1999999999	__cfduid	dec7175df834acab755f4a369f5f620ae1581602082
+trade.collective2.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
